@@ -75,4 +75,5 @@ def plot_calendar(df, column):
     return: plot du calendrier
     """
     pl = calplot.calplot(data = df[column],how = 'sum', cmap = 'Reds', figsize = (12, 12), suptitle = column)
+    return pl
     
