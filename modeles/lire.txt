@@ -1,0 +1,2 @@
+Ce dossier comporte tous les modèles que nous avons créés. 
+Pour lancer un notebook, il suffit de télécharger le dataset de ce dossier et un notebook de modèle. 
