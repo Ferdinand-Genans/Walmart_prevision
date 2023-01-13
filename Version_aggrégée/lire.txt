@@ -1,3 +1,0 @@
-Cette version comporte l'entiereté des codes crées, que ce soit pour l'imputation,la visualisation ou bien la prévision. 
-Il faut télcharger le notebook et les datasets du dossier pour le lancer. 
-Par contre, le NB ne contient pas la partie preprocessing avec la création de notre jeu de données via la competition m5.
