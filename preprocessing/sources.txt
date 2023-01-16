@@ -1,3 +1,0 @@
-m5 dataset: https://www.kaggle.com/c/m5-forecasting-accuracy
-
-meteo dataset: https://www.visualcrossing.com/weather/weather-data-services 
